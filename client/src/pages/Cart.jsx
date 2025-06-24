@@ -3,7 +3,7 @@ import SummaryApi from '../common';
 import Context from '../context';
 import displayINRCurrency from '../helpers/displayCurrency';
 import { MdDelete } from "react-icons/md";
-import { loadStripe } from '@stripe/stripe-js';
+ 
 
 const Cart = () => {
     const [data, setData] = useState([]);
