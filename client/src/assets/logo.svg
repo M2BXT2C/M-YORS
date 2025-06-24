@@ -1,0 +1,17 @@
+<svg width="500" height="150" viewBox="0 0 500 150" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .logo-text {
+      font-family: 'Playfair Display', serif;
+      font-size: 64px;
+      fill: #111;
+      letter-spacing: 4px;
+    }
+
+    .accent {
+      fill: #d4af37; /* gold accent */
+    }
+  </style>
+  <text x="50%" y="55%" text-anchor="middle" class="logo-text">
+    M<tspan class="accent">'</tspan>YORS
+  </text>
+</svg>
